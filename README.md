@@ -41,4 +41,9 @@ code complexity in a large codebase.
 - Collaborated on system design and complexity management
 
 ## Demo
-Screenshots and demos of generated worlds and gameplay will be added here.
+<img width="800" height="800" alt="projsc1" src="https://github.com/user-attachments/assets/370305f7-9b4a-4bcb-807b-e908569fc693" />
+<img width="800" height="800" alt="projsc2" src="https://github.com/user-attachments/assets/34b8be72-f939-43eb-9096-91c35d9fc22a" />
+<img wid<img width="800" height="800" alt="projsc4" src="https://github.com/user-attachments/assets/66614532-600b-4aed-9ae6-50a71a49f5f5" />
+th="800" height="800" alt="projsc3" src="https://github.com/user-attachments/assets/c3cb814d-6c7a-4759-a55f-013d62cf1d53" />
+![Up<img width="800" height="800" alt="projsc5" src="https://github.com/user-attachments/assets/ff836f8b-fb7e-4402-829e-576eb5d56158" />
+loading projsc4.png…]()
